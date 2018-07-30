@@ -1,0 +1,23 @@
+PODS:
+  - HomeModel (0.1.0):
+    - XPRouter (~> 1.0.0)
+  - XPRouter (1.0.0)
+
+DEPENDENCIES:
+  - HomeModel (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - XPRouter
+
+EXTERNAL SOURCES:
+  HomeModel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HomeModel: 8929186335efbacbe1dcd7bb678ef2ec7fbb1d5a
+  XPRouter: 5baa3ed494acaa2671fed0ab141839f97b8bb351
+
+PODFILE CHECKSUM: d7d38d841fb4fb0f69e297d8628eb661c78b11ec
+
+COCOAPODS: 1.5.3
