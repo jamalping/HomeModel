@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = 'HomeModel'
-  s.version      = '0.1.3'
+  s.version      = '0.2.0'
   s.summary      = 'HomeModel.'
 
   s.description  = <<-DESC
@@ -43,6 +43,7 @@ Pod::Spec.new do |s|
   # s.libraries = 'iconv', 'xml2'
 
   # s.xcconfig = { 'HEADER_SEARCH_PATHS' => '$(SDKROOT)/usr/include/libxml2' }
-  s.dependency 'XPRouter','~> 1.0.0'
+  s.dependency 'XPRouter'
+  s.dependency 'XPRouterPath'
 
 end

@@ -38,6 +38,7 @@
 		E199423519890C0BF6AD7ED81A2756A4 /* UIViewControllerType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F588D6C329ED58B32C6C7F1A22C9F3A /* UIViewControllerType.swift */; };
 		E27F716CD2C79C8181BA66ACE05C3BF8 /* XPRouter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2841A56FC2F68AC8AE82E3CEBC0D2E23 /* XPRouter.framework */; };
 		FAE411F6645C1A8AA158022BE6773AF4 /* HomeModel-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D4BD836CA101E10E575A9AA981E88EBA /* HomeModel-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FB05C1BB21144DCB0048CBA2 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB05C1BA21144DCB0048CBA2 /* HomeViewController.swift */; };
 		FB19C860210EF04F000BBD94 /* HomeModelEntrance.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB19C85F210EF04F000BBD94 /* HomeModelEntrance.swift */; };
 		FFBD482034BD47CB55C688C029D5AC3C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 363FDC3852327ABA8CC28A09046349D7 /* Foundation.framework */; };
 /* End PBXBuildFile section */
@@ -134,6 +135,7 @@
 		F1E9FF25EDAC77C3CC7931C91F2CDC84 /* URLRouterType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = URLRouterType.swift; path = XPRouter/Classes/URLRouterType.swift; sourceTree = "<group>"; };
 		F79A185B109C01241318BA8DFAE19B4B /* Pods_HomeModel_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HomeModel_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F829EDF76F2B41CCB698FFA70AD154B4 /* URLMatchResult.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = URLMatchResult.swift; path = XPRouter/Classes/URLMatchResult.swift; sourceTree = "<group>"; };
+		FB05C1BA21144DCB0048CBA2 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HomeViewController.swift; path = HomeModel/Classes/HomeViewController.swift; sourceTree = "<group>"; };
 		FB19C85F210EF04F000BBD94 /* HomeModelEntrance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = HomeModelEntrance.swift; path = HomeModel/Classes/HomeModelEntrance.swift; sourceTree = "<group>"; };
 		FFB3A6534D46E454208887F68A97A440 /* URLRouter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = URLRouter.swift; path = XPRouter/Classes/URLRouter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -343,6 +345,7 @@
 		F568D3E55643F617E9680F9B23263134 /* HomeModel */ = {
 			isa = PBXGroup;
 			children = (
+				FB05C1BA21144DCB0048CBA2 /* HomeViewController.swift */,
 				D0DA1DE3A594ED658E76E1909FD10F2D /* XPRouterPath.swift */,
 				FB19C85F210EF04F000BBD94 /* HomeModelEntrance.swift */,
 				395A88BAF427C7A28DF641A2A22A44C9 /* Pod */,
@@ -541,6 +544,7 @@
 				FB19C860210EF04F000BBD94 /* HomeModelEntrance.swift in Sources */,
 				66380CFFB8260B11C0A558E7A6708B9E /* HomeModel-dummy.m in Sources */,
 				4D3B92CBC578EDF67DC80C7AEE55A6FA /* XPRouterPath.swift in Sources */,
+				FB05C1BB21144DCB0048CBA2 /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
