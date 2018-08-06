@@ -1,6 +1,6 @@
 {
   "name": "HomeModel",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "HomeModel.",
   "description": "this is HomeModel",
   "homepage": "https://github.com/jamalping/HomeModel",
@@ -14,7 +14,7 @@
   },
   "source": {
     "git": "https://github.com/jamalping/HomeModel.git",
-    "tag": "0.2.0"
+    "tag": "0.3.0"
   },
   "source_files": "HomeModel/Classes/**/*",
   "dependencies": {

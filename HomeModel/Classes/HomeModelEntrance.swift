@@ -7,6 +7,7 @@
 
 import Foundation
 import XPRouter
+import XPRouterPath
 
 public class HomeModelEntrance: ModuleLifeCycleEntry {
     public func initialize() {

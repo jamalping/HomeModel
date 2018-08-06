@@ -1,5 +1,5 @@
 PODS:
-  - HomeModel (0.2.0):
+  - HomeModel (0.3.0):
     - XPRouter
     - XPRouterPath
   - XPRouter (1.0.0)
@@ -18,7 +18,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  HomeModel: 5cb4fff146f82d8bfea554795fe4933dd8bbd965
+  HomeModel: dc2d3faee3da5124bc4c892b920c0b3ae99103eb
   XPRouter: 5baa3ed494acaa2671fed0ab141839f97b8bb351
   XPRouterPath: 9608d55701ade1a152acd9d06f87df4b414edbe9
 
