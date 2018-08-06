@@ -19,6 +19,8 @@ class HomeViewController: UIViewController {
     
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
         super.touchesBegan(touches, with: event)
+        router.open(LoginPath.login, context: "test")
         
-        router.open(LoginPath.login, context: "test")    }
+        self.navigationController?.popViewController(animated: true)
+    }
 }
