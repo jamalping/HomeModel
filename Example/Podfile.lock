@@ -1,7 +1,9 @@
 PODS:
-  - HomeModel (0.1.0):
-    - XPRouter (~> 1.0.0)
+  - HomeModel (0.2.0):
+    - XPRouter
+    - XPRouterPath
   - XPRouter (1.0.0)
+  - XPRouterPath (0.1.1)
 
 DEPENDENCIES:
   - HomeModel (from `../`)
@@ -9,15 +11,17 @@ DEPENDENCIES:
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - XPRouter
+    - XPRouterPath
 
 EXTERNAL SOURCES:
   HomeModel:
     :path: "../"
 
 SPEC CHECKSUMS:
-  HomeModel: 8929186335efbacbe1dcd7bb678ef2ec7fbb1d5a
+  HomeModel: 5cb4fff146f82d8bfea554795fe4933dd8bbd965
   XPRouter: 5baa3ed494acaa2671fed0ab141839f97b8bb351
+  XPRouterPath: 9608d55701ade1a152acd9d06f87df4b414edbe9
 
-PODFILE CHECKSUM: d7d38d841fb4fb0f69e297d8628eb661c78b11ec
+PODFILE CHECKSUM: 3a8a9554ef435ce7b602eae1878868109512b397
 
 COCOAPODS: 1.5.3

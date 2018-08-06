@@ -20,6 +20,5 @@ class HomeViewController: UIViewController {
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
         super.touchesBegan(touches, with: event)
         
-//        Router.handle(<#T##pattern: URLPattern##URLPattern#>, <#T##factory: URLOpenHandlerFactory##URLOpenHandlerFactory##(URLConvertible, [String : Any], Any?) -> Bool#>)
-    }
+        Router.open(LoginPath.login, context: "test")    }
 }
