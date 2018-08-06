@@ -101,7 +101,7 @@
 		5A90D07CE51BB128BA5935CB9EE34DDA /* ModuleLifeCycleEntry.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ModuleLifeCycleEntry.swift; path = XPRouter/Classes/ModuleLifeCycleEntry.swift; sourceTree = "<group>"; };
 		5D2AB71978AD729A69946F0F197F130A /* XPRouterPath.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XPRouterPath.xcconfig; sourceTree = "<group>"; };
 		64A8A8BA1BC561D06B3E0C9DE46CC1FA /* ModuleMediatorType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ModuleMediatorType.swift; path = XPRouter/Classes/ModuleMediatorType.swift; sourceTree = "<group>"; };
-		66BF73881048A140593A2B4785F3E308 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		66BF73881048A140593A2B4785F3E308 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		685C2927FAF29537D9B7AA01C64E6D0B /* XPRouter-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XPRouter-umbrella.h"; sourceTree = "<group>"; };
 		6D2910776E2122F5EC74120393ADCBA9 /* URLRouter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = URLRouter.swift; path = XPRouter/Classes/URLRouter.swift; sourceTree = "<group>"; };
 		70CFC30EDFEACCB4EEDB10715935DB61 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -113,28 +113,28 @@
 		7B8EE82F7D8B9F50218EFAF2308085CA /* UIViewController+TopMostViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIViewController+TopMostViewController.swift"; path = "XPRouter/Classes/UIViewController+TopMostViewController.swift"; sourceTree = "<group>"; };
 		81CE2C22D22AF5B9942BC3789D5EAD1D /* URLPatchComponentMatchResult.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = URLPatchComponentMatchResult.swift; path = XPRouter/Classes/URLPatchComponentMatchResult.swift; sourceTree = "<group>"; };
 		924804A55B5BC96F622D39101B4C63A8 /* XPRouter-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XPRouter-prefix.pch"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9531D4731D851ACE6BE1761A544AC44D /* XPRouter.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XPRouter.xcconfig; sourceTree = "<group>"; };
 		9759B8F6C247FAC671D5E515566E1041 /* XPRouterPath-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XPRouterPath-prefix.pch"; sourceTree = "<group>"; };
-		9858D10BE0BD2820A169EFFA618A0126 /* HomeModel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = HomeModel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9858D10BE0BD2820A169EFFA618A0126 /* HomeModel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = HomeModel.framework; path = HomeModel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B8B25749F313E9221FA1433B4462774 /* Pods-HomeModel_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HomeModel_Example.release.xcconfig"; sourceTree = "<group>"; };
 		9F4A4E37C146A0B5C03D5E4369371CD4 /* URLConvertible.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = URLConvertible.swift; path = XPRouter/Classes/URLConvertible.swift; sourceTree = "<group>"; };
 		A5B84A08FDD7A1897380032106DF99C8 /* ModuleRegister.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ModuleRegister.swift; path = XPRouter/Classes/ModuleRegister.swift; sourceTree = "<group>"; };
 		A94569094BFC8BA6419C6DA84BB97EBE /* Pods-HomeModel_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-HomeModel_Example-dummy.m"; sourceTree = "<group>"; };
 		AC0AB597527B47806D57598186B082E5 /* URLPattern+Generate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "URLPattern+Generate.swift"; path = "XPRouter/Classes/URLPattern+Generate.swift"; sourceTree = "<group>"; };
 		AC87B387CA84034636DECB3EDA1819CF /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		AD5E21E3C256F90E6F0976460066903A /* FILE_LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = FILE_LICENSE; sourceTree = "<group>"; };
+		AD5E21E3C256F90E6F0976460066903A /* FILE_LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = FILE_LICENSE; sourceTree = "<group>"; };
 		AFC69DF4972CEEB32A29F54338ADE8A6 /* XPRouterPath-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "XPRouterPath-dummy.m"; sourceTree = "<group>"; };
 		B83A540548D82E355DA49EB31E7AF5F4 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BC2FA412E80DE83D8681F2E5602495F7 /* PersonModelPath.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PersonModelPath.swift; path = XPRouterPath/Classes/PersonModelPath.swift; sourceTree = "<group>"; };
-		C1D0C80EDF22B25A49EA53B965DB43B6 /* HomeModel.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = HomeModel.podspec; sourceTree = "<group>"; };
-		C2B4EC38843DC59607DB8317B6EBE694 /* XPRouterPath.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = XPRouterPath.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C1D0C80EDF22B25A49EA53B965DB43B6 /* HomeModel.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = HomeModel.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		C2B4EC38843DC59607DB8317B6EBE694 /* XPRouterPath.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = XPRouterPath.framework; path = XPRouterPath.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2DA27427F522C3A24A1AC57D580C88B /* HomeViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HomeViewController.swift; path = HomeModel/Classes/HomeViewController.swift; sourceTree = "<group>"; };
 		C3EBCC19ACBEB689ED8676476D9EB4C5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		C7A2A9B32E44D406E6D1DCCB07164045 /* XPRouterPath.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = XPRouterPath.modulemap; sourceTree = "<group>"; };
 		C8D22003980EBE2BEEC2C31FC948D789 /* Pods-HomeModel_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-HomeModel_Example-umbrella.h"; sourceTree = "<group>"; };
 		CD3B536B72BA453AE2253E9ADACAD93F /* URLMatchResult.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = URLMatchResult.swift; path = XPRouter/Classes/URLMatchResult.swift; sourceTree = "<group>"; };
-		CFEB322F721074728CA65D637A13E7C6 /* XPRouter.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = XPRouter.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CFEB322F721074728CA65D637A13E7C6 /* XPRouter.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = XPRouter.framework; path = XPRouter.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D39A88C51F717B725E79E4FEC6A2AB3C /* XPRouterPath.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = XPRouterPath.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D48FF2506E4F3ABF7919F46156FD75C7 /* HomeModel.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = HomeModel.modulemap; sourceTree = "<group>"; };
 		E13A6E97F2DAD5BD7D80DE3CFFA57AA8 /* Pods-HomeModel_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HomeModel_Example.debug.xcconfig"; sourceTree = "<group>"; };
@@ -142,7 +142,7 @@
 		E41723615090CCE8D2E302F8F1A36E0F /* XPRouterPath.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = XPRouterPath.swift; path = XPRouterPath/Classes/XPRouterPath.swift; sourceTree = "<group>"; };
 		E5E5C189B5FAE2872406CBFA34275217 /* HomeModel-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HomeModel-prefix.pch"; sourceTree = "<group>"; };
 		ED368AEB1DCB5426B186CE88A0400376 /* Pods-HomeModel_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-HomeModel_Example.modulemap"; sourceTree = "<group>"; };
-		ED82A5D268C5879DFDD4F777117E0285 /* Pods_HomeModel_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HomeModel_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		ED82A5D268C5879DFDD4F777117E0285 /* Pods_HomeModel_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_HomeModel_Example.framework; path = "Pods-HomeModel_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1BF3A8FAC90E790F88D7BAD562D02E7 /* XPRouter-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "XPRouter-dummy.m"; sourceTree = "<group>"; };
 		F7A1E9470AE9CF213B1559C1942FB569 /* URLPathComponent.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = URLPathComponent.swift; path = XPRouter/Classes/URLPathComponent.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -291,6 +291,7 @@
 				775F8E91B8FC8FFAB47C920B955DC1E1 /* URLRouterType.swift */,
 				47EEE916F09D7D6C2AD84301D4F964F0 /* Support Files */,
 			);
+			name = XPRouter;
 			path = XPRouter;
 			sourceTree = "<group>";
 		};
@@ -339,6 +340,7 @@
 				E41723615090CCE8D2E302F8F1A36E0F /* XPRouterPath.swift */,
 				75801ABE216802D6FD376E9F21E794BE /* Support Files */,
 			);
+			name = XPRouterPath;
 			path = XPRouterPath;
 			sourceTree = "<group>";
 		};

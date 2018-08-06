@@ -2,7 +2,7 @@ PODS:
   - HomeModel (0.3.0):
     - XPRouter
     - XPRouterPath
-  - XPRouter (1.0.0)
+  - XPRouter (1.0.2)
   - XPRouterPath (0.1.1)
 
 DEPENDENCIES:
@@ -19,7 +19,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   HomeModel: dc2d3faee3da5124bc4c892b920c0b3ae99103eb
-  XPRouter: 5baa3ed494acaa2671fed0ab141839f97b8bb351
+  XPRouter: 8fca56f6b7bf14c79574bf15a3c1ae60719c81d7
   XPRouterPath: 9608d55701ade1a152acd9d06f87df4b414edbe9
 
 PODFILE CHECKSUM: 3a8a9554ef435ce7b602eae1878868109512b397
